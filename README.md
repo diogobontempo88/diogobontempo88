@@ -7,3 +7,9 @@ Algumas coisas que são indispensáveis na minha vida 🤔
 🏃🏻 Uma coisa que eu adoro fazer, principalmente nos momentos que estou com tempo livre é correr. Caso você também tenha esse Hobbie e queira companhia, pode me chamar.
 👨🏻‍💻 Atualmente estou focado em aprender mais a respeito de back-end. No início da minha trajetória em back, compreendi sobre o NodeJS e seu famoso framework, o Express. Na parte de arquitetura tenho noção dos princípios MVC, SOLID e DDD, mas estou em busca de entender mais estes conceitos e absorver novos.
 🖥️ Quando se trata de Front-end, utilizo o React, gosto de pensar em como fazer a lógica, reutilizar componentes e manter o código organizado. Pesquiso e aplico elementos novos dentro desta biblioteca, tal como Hooks.
+
+[![LinkedIn Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[Link perfil no LinkedIn])]([Link perfil no LinkedIn])
+
+<a href="[Link perfil no LinkedIn]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<img src="{https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white}" />
